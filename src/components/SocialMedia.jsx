@@ -1,6 +1,5 @@
 import React from 'react';
-import { BsTwitter, BsInstagram, BsLinkedin, BsGithub } from 'react-icons/bs';
-import { FaFacebookF } from 'react-icons/fa';
+import { BsGithub, BsLinkedin, BsTwitter } from 'react-icons/bs';
 
 const openSocial = (link) => {
   window.open(link, '_blank');
